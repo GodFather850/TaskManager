@@ -1,15 +1,8 @@
-# ✅ Task Manager – by CAgent_47
+# ✅ CLI-Task Manager – by CAgent_47 (V1.3)
 
 
 A simple but powerful task manager built with Python and tkinter.
 It works offline, saves tasks in a .txt file, and keeps your shit organized — because who has time to remember everything?
-
-# Update(V1.3):
-
-**your tasks saving in json file**
-**Swith from tkinter to CLI**
-**Delete Task Soon...**
-**Show Task In CLI**
 
 ## 🔧 What it does  
 
